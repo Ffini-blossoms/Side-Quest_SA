@@ -17,7 +17,7 @@ Embark on an adventure as I document my progress, discoveries, and side quests i
 | Date | Topic | Link |
 |------|-------|------|
 | 2025-07-02 | Getting Started with Git | [Read More](docs/getting-started-with-git.md) |
-| ... | ... | ... |
+
 
 ---
 
