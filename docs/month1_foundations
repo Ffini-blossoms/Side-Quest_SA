@@ -1,0 +1,28 @@
+# 📘 Month 1: Foundations of Red Hat Linux
+
+Welcome to Month 1 of my RHCSA journey! This chapter is focused on the **core fundamentals** — everything from installation, users, navigation, permissions, and system basics. These are the building blocks I’ll need before diving into more advanced sysadmin tasks.
+
+---
+
+## 🗓️ Weekly Breakdown
+
+| Week | Title                        | Status       | Link |
+|------|------------------------------|--------------|------|
+| 1    | Getting Started with RHEL    | ✅ Complete   | [Week 1](week1_getting-started.md) |
+| 2    | User & Group Management      | 🔄 In Progress | [Week 2](week2_user-and-group.md) |
+| 3    | Permissions Deep Dive        | 🔜 Coming Soon | |
+| 4    | Navigating the CLI Efficiently | 🔜 Coming Soon | |
+
+---
+
+## 🎯 Month 1 Goals
+- [x] Install RHEL 9 in VMware
+- [ ] Manage users and groups confidently
+- [ ] Understand and apply file permissions
+- [ ] Navigate the system efficiently with CLI
+
+---
+
+## 🔁 End of Month Reflection (To Be Filled)
+By the end of this month, I’ll revisit what I learned, what challenged me, and what I’ll carry forward into Month 2.
+
